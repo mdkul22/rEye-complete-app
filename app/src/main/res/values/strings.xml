@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RakEye</string>
+    <string name="rak_title">RAKEYE</string>
+    <string name="wifi_text">Click the button below to connect to rakbutton wifi</string>
+    <string name="wifi_btn">Search and Connect</string>
+    <string name="wifi_check">Waiting for connection</string>
+    <string name="wrong_input">Do not leave any value empty!</string>
+    <string name="notify">REye Notifier</string>
+    <string name="channel_description">gets MQTT messages and displays location</string>
+    <string-array name="building_array">
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="floor_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
