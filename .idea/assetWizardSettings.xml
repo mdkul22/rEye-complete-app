@@ -32,19 +32,14 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="C:\Users\mayunkul\Desktop\Documentation\June\BGL11-AFP-G.pdf" />
+                                      <entry key="foregroundImage" value="C:\Users\mayunkul\Desktop\fronticon.png" />
                                       <entry key="foregroundLayerName" value="ic_launcher_foreground" />
-                                      <entry key="outputName" value="bgl12g" />
+                                      <entry key="outputName" value="fronticon" />
                                     </map>
                                   </option>
                                 </PersistentState>
                               </value>
                             </entry>
-                          </map>
-                        </option>
-                        <option name="values">
-                          <map>
-                            <entry key="outputIconType" value="ACTIONBAR" />
                           </map>
                         </option>
                       </PersistentState>
